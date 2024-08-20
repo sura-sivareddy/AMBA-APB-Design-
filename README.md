@@ -1,1 +1,1 @@
-# AMBA-APB-Design-
+# AMBA-APB-Protocol Design-
